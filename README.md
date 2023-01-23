@@ -1,2 +1,3 @@
 # Java-basico
-Repositório para armazenar todo o conteúdo do curso de Java básico
+Repositorio para armazenar todo o conteudo do curso de Java basico
+Alterando o conteudo de um arquivo de forma local
